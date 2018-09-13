@@ -1,7 +1,7 @@
-# Projeto-HOTEL
+# Projeto HOTEL
 Lab. Engenharia de Software
 
-Servidor: <br>
+Servidor: Windows Server 2016 Datacenter <br>
 BD: SQL-Server <br>
 Versionamento: GitHub <br>
-IDE: Netbeans IDE 8.2
+IDE: IntelliJ IDEA Ultimate
