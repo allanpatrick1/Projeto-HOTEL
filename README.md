@@ -2,6 +2,6 @@
 Lab. Engenharia de Software
 
 Servidor: <br>
-BD: <br>
+BD: SQL-Server <br>
 Versionamento: GitHub <br>
-IDE: Java
+IDE: Netbeans IDE 8.2
