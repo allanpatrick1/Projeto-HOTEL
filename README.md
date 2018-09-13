@@ -1,7 +1,7 @@
 # Projeto-HOTEL
 Lab. Engenharia de Software
 
-Servidor: 
-BD: 
-Versionamento: GitHub
+Servidor: <br>
+BD: <br>
+Versionamento: GitHub <br>
 IDE: Java
